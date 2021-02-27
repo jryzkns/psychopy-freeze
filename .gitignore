@@ -1,0 +1,12 @@
+**/__pycache__/
+
+# pyinstaller intermediaries
+*.spec
+build/
+dist/
+
+# directory of the venv
+gen/
+
+# hooks dir
+pyinstaller-hooks-contrib/
